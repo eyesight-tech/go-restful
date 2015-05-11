@@ -3,7 +3,7 @@ package restful
 import (
 	"os"
 
-	"github.com/singlecue/go-restful/log"
+	"github.com/eyesight-tech/go-restful/log"
 )
 
 // Copyright 2013 Ernest Micklei. All rights reserved.

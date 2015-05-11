@@ -10,7 +10,7 @@ import (
 	"sort"
 	"strings"
 
-	"github.com/singlecue/go-restful/log"
+	"github.com/eyesight-tech/go-restful/log"
 )
 
 type SwaggerService struct {

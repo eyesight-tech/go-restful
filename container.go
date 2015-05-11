@@ -12,7 +12,7 @@ import (
 	"runtime"
 	"strings"
 
-	"github.com/singlecue/go-restful/log"
+	"github.com/eyesight-tech/go-restful/log"
 )
 
 // Container holds a collection of WebServices and a http.ServeMux to dispatch http requests.
